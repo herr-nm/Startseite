@@ -1,6 +1,6 @@
 # Startseite
 
-### Moodle
+## Moodle
 
 - [Kursbereich NM Moodle](https://moodle.mm-bbs.de/moodle/course/index.php?categoryid=535)
 - [KIT LF02 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=2733)
@@ -10,7 +10,7 @@
 - [KIT PV AP2 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=2736)
 - [FöKu Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=1883)
 
-### GitHub Pages
+## GitHub Pages
 
 - [KIT Curriculum Github Pages](https://herr-nm.github.io/MMBbS_KIT_Curriculum/)
 - [KIT LF02 Github Pages](https://herr-nm.github.io/MMBbS_KIT_LF02)
@@ -18,7 +18,7 @@
 - [KSM LF13 Github Pages](https://herr-nm.github.io/MMBbS_KSM_LF13)
 - [FISI LF02 Github Pages](https://herr-nm.github.io/MMBbS_FISI_LF02)
 
-### GitHub
+## GitHub
 
 - [GitHub Herr NM](https://github.com/herr-nm)
 - [KMK Prüfungsvorbereitung Moodle]()
@@ -29,3 +29,10 @@
 - [IHK Abrechnung](https://bildungs-service.gfi.ihk.de/spb-ui-service)
 - [IHK Hannover Plattform](https://ihk-h.geht.digital/share/page/)
 - [IHK ZPA Plattform]()
+
+## Diverses
+
+- [LinkedIn Learning](https://www.linkedin.com/learning/)
+- [LinkedIn Learning Admin Panel](https://www.linkedin.com/learning-admin)
+- [WebUntis](https://borys.webuntis.com/today)
+- [YouTube-Kanal Herr NM](https://www.youtube.com/@herr-nm)
