@@ -9,6 +9,7 @@
 - [KIT PV AP1 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=2735)
 - [KIT PV AP2 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=2736)
 - [FöKu Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=1883)
+- [KMK Prüfungsvorbereitung Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=1981)
 
 ## GitHub Pages
 
@@ -18,12 +19,11 @@
 - [KSM LF13 Github Pages](https://herr-nm.github.io/MMBbS_KSM_LF13)
 - [FISI LF02 Github Pages](https://herr-nm.github.io/MMBbS_FISI_LF02)
 
-## GitHub
+## Herr NM
 
 - [GitHub Herr NM](https://github.com/herr-nm)
-- [KMK Prüfungsvorbereitung Moodle]()
-- [KMK Prüfungsvorbereitung Github Repo]()
-
+- [YouTube-Kanal Herr NM](https://www.youtube.com/@herr-nm)
+- 
 ## IHK
 
 - [IHK Abrechnung](https://bildungs-service.gfi.ihk.de/spb-ui-service)
@@ -35,4 +35,3 @@
 - [LinkedIn Learning](https://www.linkedin.com/learning/)
 - [LinkedIn Learning Admin Panel](https://www.linkedin.com/learning-admin)
 - [WebUntis](https://borys.webuntis.com/today)
-- [YouTube-Kanal Herr NM](https://www.youtube.com/@herr-nm)
