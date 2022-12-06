@@ -35,3 +35,4 @@
 - [LinkedIn Learning](https://www.linkedin.com/learning/)
 - [LinkedIn Learning Admin Panel](https://www.linkedin.com/learning-admin)
 - [WebUntis](https://borys.webuntis.com/today)
+- [Cisco NetAcad](https://www.netacad.com/)
