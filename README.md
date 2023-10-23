@@ -2,10 +2,11 @@
 
 ## Moodle
 
-- [Kursbereich NM Moodle](https://moodle.mm-bbs.de/moodle/course/index.php?categoryid=535)
-- [KIT LF02 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=2733)
-- [KDM LF12 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=2879)
-- [FISI LF02 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=2734)
+- [Kursbereich NM Moodle](https://moodle.mm-bbs.de/moodle/course/index.php?categoryid=565)
+- [KIT LF02 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=3005)
+- [KDM LF12 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=3008)
+- [FISI LF02 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=3006)
+- [FISI LF12 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=3009)
 - [KIT PV AP1 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=2735)
 - [KIT PV AP2 Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=2736)
 - [FöKu Moodle](https://moodle.mm-bbs.de/moodle/course/view.php?id=1883)
@@ -25,7 +26,7 @@
 
 - [GitHub Herr NM](https://github.com/herr-nm)
 - [YouTube-Kanal Herr NM](https://www.youtube.com/@herr-nm)
-- 
+
 ## IHK
 
 - [IHK Abrechnung](https://bildungs-service.gfi.ihk.de/spb-ui-service)
